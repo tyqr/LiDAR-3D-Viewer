@@ -51,6 +51,6 @@ TROUBLESHOOTING
 CREDITS
 ------------------------------------------------------------
 Project by: Moobaankonoha
-Built using Unity 2021.3 and C#
+Built using Unity 2021.3.4f1 and C#
 
 You can download Unity Project: 
