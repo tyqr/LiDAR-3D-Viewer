@@ -14,6 +14,10 @@ in 3D space, with color based on distance.
 You can move the camera using your keyboard and mouse 
 to freely explore the point cloud environment.
 
+Sample data: lidar_raw.txt , lidar_raw.bin
+You can open lidar_raw.txt in any text editor.
+You can open lidar_raw.bin in Wireshark, MATLAB, Python, etc.
+
 ------------------------------------------------------------
 DOWNLOAD
 ------------------------------------------------------------
